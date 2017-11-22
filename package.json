@@ -1,0 +1,11 @@
+{
+  "name": "highcharts",
+  "version": "1.0.0",
+  "description": "the use of hishcharts",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yuyuanlin1991",
+  "license": "ISC"
+}
